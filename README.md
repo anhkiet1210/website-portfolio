@@ -2,7 +2,7 @@
 
 Website Portfolio cá nhân mang phong cách **Retro / Pixel Art** hoài cổ (được truyền cảm hứng từ giao diện hệ điều hành cổ điển và game 8-bit). Dự án giới thiệu về bản thân, kỹ năng lập trình, kinh nghiệm thực tiễn và các dự án cá nhân nổi bật.
 
-![Portfolio Preview](./assets/images/project-2.jpg)
+![Portfolio Preview](./assets/images/project-pre.jpg)
 
 ---
 
